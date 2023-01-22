@@ -1,0 +1,23 @@
+/* .container {
+  position: relative;
+  text-align: center;
+  color: white;
+} */
+.top-left {
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  position: absolute;
+  top: 200px;
+  left: 110px;
+}
+
+.bottom-left {
+  /* Bottom left text */
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 280px;
+  left: 40px;
+}

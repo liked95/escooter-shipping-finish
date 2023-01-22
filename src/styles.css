@@ -1,0 +1,13 @@
+.bg-image {
+  background-image: url(" https://images.unsplash.com/photo-1599940036426-617d1763eb94?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Njg5NDE2MDk&ixlib=rb-4.0.3&q=80");
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -10;
+}
+
+.App {
+  background-color: #f1f1f1;
+}
